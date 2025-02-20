@@ -1,0 +1,15 @@
+// mixin for display 1023px
+
+@mixin vp-1023 {
+  @media (max-width: $vp-tablet) {
+    @content;
+  }
+}
+
+// mixin for display 767px
+
+@mixin vp-767 {
+  @media (max-width: $vp-mobile) {
+    @content;
+  }
+}
