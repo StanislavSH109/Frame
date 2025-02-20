@@ -9,7 +9,7 @@ https://jakearchibald.github.io/svgomg/ - Сервис для очистки SVG
 
 Сжатие картинок: 
 https://squoosh.app/ - сервис для сжатия картинок
-https://cloudconvert.com/jpg-to-webp - Сервис для перевод из jpg в webp
+https://cloudconvert.com/jpg-to-webp - Сервис для перевода из jpg в webp
 
 Favicon/Manifest:
 https://realfavicongenerator.net/ - создание favicon
